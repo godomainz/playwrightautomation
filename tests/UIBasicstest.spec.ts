@@ -7,5 +7,5 @@ test("Browser Context  playwright test", async ({ browser })=>{
 });
 
 test("Page playwright test", async ({ page })=>{;
-    await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
+    await page.goto("https://google.com");
 });
